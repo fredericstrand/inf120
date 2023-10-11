@@ -1,6 +1,4 @@
-import sys
-sys.path.append('/Users/fredericstrand/Desktop/python_intro/')
-import inf120stat.py
+import inf120stat
 
 def choose_action():
     print("Hovedmeny:")
